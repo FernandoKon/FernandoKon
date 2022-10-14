@@ -1,6 +1,6 @@
 <img src = "img/profile-banner.gif" width = "425px" height = "200px" align = "right">
 
-<p># Hi there!</p>
+# Hi there!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/fernando-laiser-kon-0a8073203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,6 +18,6 @@ Estudante de engenharia da computação tentando aprender um pouco mais a cada d
 </div>
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKon&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=FernandoKon&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKon&show_icons=true&theme=ocean_dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=FernandoKon&show_icons=true&show_icons=true&theme=ocean_dark&count_private=true" />
 </div>
