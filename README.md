@@ -2,7 +2,7 @@
 
 <img src = "img/banner.gif" width = "425px" height = "200px" align = "right">
 
-# Hi there!
+<p># Hi there!</p>
   <div id="badges">
   <a href = "https://www.linkedin.com/in/fernando-laiser-kon-0a8073203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
