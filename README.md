@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <img src = "img/banner.gif" width = "425px" height = "200px" align = "right">
 
 # Hi there!
