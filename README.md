@@ -21,6 +21,6 @@ Estudante de engenharia da computação tentando aprender um pouco mais a cada d
 </div>
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKon&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=FernandoKon&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKon&show_icons=true&theme=ocean_dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=FernandoKon&show_icons=true&show_icons=true&theme=ocean_dark&count_private=true"/>
 </div>
