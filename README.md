@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "425px" height = "200px" align = "right">
+<img src = "img/banner.gif" width = "425px" height = "200px" align = "right">
 
 # Hi there!
   <div id="badges">
